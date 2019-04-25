@@ -34,7 +34,7 @@ Controllability [[Source]](https://arxiv.org/abs/1811.10652)
 
 *: not sure if use the same split
 
-More details please refer to https://github.com/pdaicode/ImageVideoUnderstanding/blob/master/ImageCaptioning
+More details please refer to https://github.com/pdaicode/DeepUnderstanding/blob/master/ImageCaptioning.md
 
 ## 2. Scene Graph <a name="scenegraph"></a> [[Top]](#top)
 
