@@ -16,7 +16,7 @@ Benchmark on COCO with Karpathy's split, as reported in original paper [[Source]
 | Bottom-Up Top-Down, CIDEr loss    | 2018 | **36.3** | **27.7** | **56.9** | **120.1** | **21.4** |      |
 | NBT                               | 2018 | 34.9 | 27.4 |      | 108.9 | 20.4 |      |
 | [Discriminability objective (test)](https://arxiv.org/pdf/1803.04376.pdf) | 2018 | 36.1 | 27.38| 57.29 | 114.25 | 21.05 |  |
-| Recurrent Fusion Network for Image Captioning | 2018 | 37.9 | 28.3 | 58.3 | 125.7 | 21.7 | |
+| Recurrent Fusion Network for Image Captioning [[code]](https://github.com/cswhjiang/Recurrent_Fusion_Network) | 2018 | 37.9 | 28.3 | 58.3 | 125.7 | 21.7 | |
 | [Stack Captioning](https://arxiv.org/pdf/1709.03376.pdf) 					| 2018 | 36.1 | 27.4 | 56.9  | 120.4  | 20.9 |  |
 
 Controllability [[Source]](https://arxiv.org/abs/1811.10652)
@@ -212,7 +212,7 @@ https://cs.stanford.edu/people/karpathy/deepimagesent/
 * [GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints
 ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.pdf) - Chen F et al, `CVPR 2018`.
 * [Unpaired Image Captioning by Language Pivoting](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jiuxiang_Gu_Unpaired_Image_Captioning_ECCV_2018_paper.pdf) - Gu J et al, `ECCV 2018`.
-* [Recurrent Fusion Network for Image Captioning](https://arxiv.org/abs/1807.09986) - Jiang W et al, `ECCV 2018`.
+* [Recurrent Fusion Network for Image Captioning](https://arxiv.org/abs/1807.09986) - Jiang W et al, `ECCV 2018`. [[code]](https://github.com/cswhjiang/Recurrent_Fusion_Network)
 * [Rethinking the Form of Latent States in Image Captioning](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bo_Dai_Rethinking_the_Form_ECCV_2018_paper.pdf) - Dai B et al, `ECCV 2018`. [[code]](https://github.com/doubledaibo/2dcaption_eccv2018)
 * [Learning to Guide Decoding for Image Captioning](https://arxiv.org/abs/1804.00887) - Jiang W et al, `AAAI 2018`.
 * [Stack-Captioning: Coarse-to-Fine Learning for Image Captioning](https://arxiv.org/abs/1709.03376) - Gu J et al, `AAAI 2018`. [[code]](https://github.com/gujiuxiang/Stack-Captioning)
