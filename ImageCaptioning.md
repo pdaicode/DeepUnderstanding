@@ -16,6 +16,7 @@ Benchmark on COCO with Karpathy's split, as reported in original paper [[Source]
 | Bottom-Up Top-Down, CIDEr loss    | 2018 | **36.3** | **27.7** | **56.9** | **120.1** | **21.4** |      |
 | NBT                               | 2018 | 34.9 | 27.4 |      | 108.9 | 20.4 |      |
 | [Discriminability objective (test)](https://arxiv.org/pdf/1803.04376.pdf) | 2018 | 36.1 | 27.38| 57.29 | 114.25 | 21.05 |  |
+| Recurrent Fusion Network for Image Captioning | 2018 | 37.9 | 28.3 | 58.3 | 125.7 | 21.7 | |
 | [Stack Captioning](https://arxiv.org/pdf/1709.03376.pdf) 					| 2018 | 36.1 | 27.4 | 56.9  | 120.4  | 20.9 |  |
 
 Controllability [[Source]](https://arxiv.org/abs/1811.10652)
